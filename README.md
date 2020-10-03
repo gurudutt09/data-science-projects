@@ -1,2 +1,6 @@
 # data-science-projects
-Here you can find the projects that i worked on.
+Repository containing data science projects completed by me for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+
+Tools
+  - **Python**: NumPy, Pandas, Seaborn, Matplotlib, Seaborn, BeautifulSoup.
+  - **Machine Learning**: scikit-learn
